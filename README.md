@@ -34,3 +34,4 @@ createDemo -fs full-stack   # Creates a rails backend named 'full-stack-back-end
 
 teardownDemo                # Tears down demoProject folder.
 ```
+***NOTE:*** <app-name> is just a name to give to the demo apps. They can be anything you need them to be.
