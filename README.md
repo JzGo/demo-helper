@@ -18,7 +18,7 @@ There are a few types of demo projects I can spin up. The syntax is as follows:
 createDemo -<type> <app-name>
 ```
 
-`-<type>` is required for any demo. `<app-name> is not required for a `-j` project.
+`-<type>` is required for any demo. `<app-name> is not required for a -j` project.
 
 
 Here is the run down of all the options I can use:
