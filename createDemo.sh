@@ -2,7 +2,7 @@
 
 if [[ $# -eq 0 ]]
   then
-     echo "No demo type provided"
+    echo "No demo type provided"
     exit 1
   else
     mkdir demoProject
